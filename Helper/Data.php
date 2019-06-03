@@ -1,5 +1,5 @@
 <?php
-namespace Eve\SlackNotification\Helper;
+namespace Ranium\SlackNotification\Helper;
 use \Magento\Framework\App\Helper\AbstractHelper;
 
 class Data extends AbstractHelper
